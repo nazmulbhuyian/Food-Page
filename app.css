@@ -1,0 +1,171 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.section-1{
+    margin-top: 20px;
+    display: flex;
+    background-image: url(image/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.first-para{
+    width: 45%; 
+    padding-left: 70px;
+    margin-top: 50px;
+}
+.first-para h1{
+    color: gray;
+    font-size: 70px;
+}
+.first-para p{
+    font-size: 25px;
+    color: darkgrey;
+}
+.skip{
+    color: orange;
+}
+.first-para a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 40px;
+    padding: 20px 50px;
+    color: white;
+    font-size: 25px;
+    box-shadow: 10px 10px 30px gray;
+}
+.first-image{
+    width: 55%;
+}
+.first-image img{ 
+    width: 800px;
+    height: 800px;
+   border: 5px solid white;
+   border-radius: 50%;
+}
+
+
+.section-2{
+    display: flex;
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.second-image{
+    width: 50%;
+    margin-top: 100px;
+}
+.second-image img{ 
+    width: 350px;
+    height: 550px;
+    padding-left: 250px;
+}
+
+.second-para{
+    width: 50%;
+    padding-left: 50px;
+    margin-top: 100px;
+}
+
+.second-para h1{
+    color: gray;
+    font-size: 45px;
+    font: bold;
+}
+
+.second-para p{
+    font-size: 25px;
+     color: darkgray;
+}
+
+.second-para a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 40px;
+    padding: 20px 50px;
+    color: white;
+    font-size: 25px;
+    box-shadow: 10px 10px 30px gray;
+}
+.section-3{
+    margin-top: 80px;
+}
+.heading{
+    text-align: center;
+}
+.heading h1{
+    font-size: 30px;
+    color: gray;
+}
+.heading p{
+    color: lightslategray;
+}
+.full-box{
+    display: flex;
+}
+.first-box{
+    width: 50%;
+    margin: 30px 90px;
+    padding: 40px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 20px;
+}
+.first-box img{
+    width: 100%;
+}
+.first-box h2{
+    font-size: 30px;
+}
+.first-box p{
+    font-size: 15px;
+}
+
+.section-4{
+    display: flex;
+    margin: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    border: 5px solid white;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 20px;
+    padding: 40px;
+}
+.box-1{
+    width: 33%;
+    text-align: center;
+}
+.box-1 h1{
+    font-size: 40px;
+}
+.box-2{
+    width: 33%;
+    text-align: center;
+}
+.box-2 h1{
+    font-size: 40px;
+}
+.box-3{
+    width: 33%;
+    text-align: center;
+}
+.box-3 h1{
+    font-size: 40px;
+}
+.section-5{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+.section-5 span{
+    color: orange;
+}
+.section-5 h3{
+    font-size: 30px;
+    color: gray;
+}
+.section-5 p{
+    color: antiquewhite;
+}
